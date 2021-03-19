@@ -6,3 +6,4 @@ To recreate the process, import pandas and sqlalchemy and read the csv files "us
 
 Then, run the last three lines of code to retrieve table names and load the two CSV files into pgAdmin. 
 
+With more research and time, I hope to learn more about education/learning services usage in relation to COVID levels. 
